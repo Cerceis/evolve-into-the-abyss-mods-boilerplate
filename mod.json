@@ -1,0 +1,6 @@
+{
+    "modTitle":"My Mods",
+    "description":"My mods for Evolve: Into the Abyss.",
+    "version": "0.0.1",
+    "root": "/src"
+}
